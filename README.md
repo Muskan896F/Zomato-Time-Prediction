@@ -1,6 +1,12 @@
-*This project, "End-to-End Machine Learning Pipeline for Zomato Delivery Time Predictions," aims to accurately estimate food delivery times, enhancing Zomato's operational efficiency and customer satisfaction.*
+## *Zomato-Delievery-Time-Predictions*
 
-!["Setup for project"](1.png.jpg)
+## *Aim :-*
+- This project, "End-to-End Machine Learning Pipeline for Zomato Delivery Time Predictions," aims to accurately estimate food delivery times, enhancing Zomato's operational efficiency and customer satisfaction.
+
+## *WebApplication of Zomato-Time-Prediction*
+!["WebApplication of Zomato-Time-Prediction"](4.png.jpg)
+!["WebApplication of Zomato-Time-Prediction"](3.png.jpg)
+
 
 1. Create new Enviroment
 - conda create -p env python==3.9 -y
@@ -12,6 +18,7 @@
 
 3. Install your requirements file
 - pip install -r requirements.txt
+
 
 !["Workflow of project"](2.png.jpg)
 
@@ -52,7 +59,3 @@ The trained model is evaluated for accuracy, precision, recall, and other metric
 *7. Model Deployment:-*
 
 The evaluated model is deployed into production, where it can make real-time predictions about delivery times.
-
-*8. End:-*
-
-The pipeline completes when the model is successfully deployed, ready for operational use.# Zomato-Time-Prediction
